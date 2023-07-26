@@ -1,0 +1,21 @@
+h1{
+    background background-color: navajowhite;
+    color : darkred;
+    
+    }
+h2{
+    background-color: darkcyan;
+}
+
+h3{
+    color: crimson;
+}
+
+.demo1{
+    background-color: bisque;
+    color: royalblue;
+}
+#p1 {
+    background-color: darkslategray;
+    color: lightcoral;
+}
